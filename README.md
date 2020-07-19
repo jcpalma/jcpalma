@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola! Soy José Carlos Palma
 
 ```javascript
 const jcpalma = {
