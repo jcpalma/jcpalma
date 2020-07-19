@@ -1,4 +1,7 @@
-<h1> ¡Hola! Soy José Carlos Palma </h1>
+<h1> 
+    ¡Hola! Soy José Carlos Palma
+    <img src="https://img.shields.io/badge/version-v38.1-orange">
+</h1>
 
 ```javascript
 const jcpalma = {
