@@ -22,7 +22,7 @@ const jcpalma = {
         backEnd: {
             js: ["node", "express","NestJS"],
             java: ["WildFly Server", "Facelets"],
-            golang: ["]
+            golang: ["gorilla/mux"]
         },
         devOps: [],
         databases: ["oracle", "mysql", "mongodb"],
