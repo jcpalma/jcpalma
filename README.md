@@ -1,8 +1,8 @@
 <h1> 
     ¡Hola! Soy José Carlos Palma
     <img src="https://img.shields.io/badge/version-v38.1-orange">
-    <img src="https://img.shields.io/badge/build-passing-green">
-    <img src="https://img.shields.io/badge/tests-5%20passed%2C%202%20failed%2C%201%20skipped-red">
+    <img src="https://img.shields.io/badge/build%20life-passing-green">
+    <img src="https://img.shields.io/badge/tests%20life-5%20passed%2C%202%20failed%2C%201%20skipped-red">
 </h1>
 
 ```javascript
