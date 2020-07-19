@@ -1,4 +1,4 @@
-### ¡Hola! Soy José Carlos Palma
+<h1> ¡Hola! Soy José Carlos Palma </h1>
 
 ```javascript
 const jcpalma = {
