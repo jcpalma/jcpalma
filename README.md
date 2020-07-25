@@ -9,29 +9,30 @@
 
 ```javascript
 const jcpalma = {
-    nombre: "José Carlos Palma",
-    lenguajes: ["Java", "PL/SQL", "Typescript"],
-    aprendiendo: ["Golang","swift","Python"]
-    antiguosLenguajes: ["C++", "PHP", "Python", "sh"]
-    sobreMi: ["Coordinador/Analista DWH", "Me encanta codificar/nerdear", "Desarrollo Web/Aplicaciones", "Música/Películas"],
+    nombre: 'José Carlos Palma',
+    lenguajes: ['Java', 'PL/SQL', 'Typescript'],
+    aprendiendo: ['Golang','Swift','Python','Angular','ReactJS','Flutter/Dart']
+    antiguosLenguajes: ['C++', 'PHP', 'Python', 'sh']
+    sobreMi: ['Coordinador Data Warehouse', 'Me encanta codificar/nerdear', 'Desarrollo Web/Aplicaciones', 'Música/Películas'],
     tecnologías: {
-        movil: ["Swift", "Flutter"],
+        movil: ['Swift'.level('basic'), 'Flutter'.level('basic')],
         frontEnd: {
-            framework: ["Angular"],
-            librerias: ["ReactJS"]
-            css: ["bootstrap"]
+            framework: ['Angular'.level('median')],
+            // librerias: ['ReactJS']
+            util: ['NgRx','RxJs']
+            css: ['bootstrap']
         },
         backEnd: {
-            js: ["node", "express","NestJS"],
-            java: ["WildFly Server", "Facelets"],
-            golang: ["gorilla/mux"]
+            js: ['node', 'express','NestJS'.level('basic')],
+            java: ['WildFly Server', 'Facelets'],
+            golang: ['gorilla/mux']
         },
         devOps: [],
-        databases: ["oracle", "mysql", "mongodb"],
-        misc: ["Firebase", "Auth0"]
+        databases: ['oracle'.level('advanced'), 'mysql'.level('median'), 'mongodb'.level('basic')],
+        misc: ['Firebase', 'Auth0']
     },
-    arquitectura: ["Single Page Applications", "Command Line Application", "Desktop Application"],
-    proyectoActual: "",
+    arquitectura: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
+    proyectoActual: '',
 };
 ```
 
