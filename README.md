@@ -4,7 +4,7 @@
 <p>
 <img src="https://img.shields.io/badge/version-v38.6%20stable-orange">
 <img src="https://img.shields.io/badge/build%20life-passing-green">
-<img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%202%20failed%2C%201%20skipped-black">
+<img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%202%20failed%2C%201%20skipped-informational">
 </p>
 
 ```javascript
