@@ -18,18 +18,18 @@ const jcpalma = {
         movil: ['Swift'.level('basic'), 'Flutter'.level('basic')],
         frontEnd: {
             framework: ['Angular'.level('median')],
-            // librerias: ['ReactJS']
+            librerias: ['ReactJS'.level('basic'), 'VueJS'.level('basic')]
             util: ['NgRx','RxJs']
             css: ['bootstrap']
         },
         backEnd: {
             js: ['node', 'express','NestJS'.level('basic')],
             java: ['WildFly Server', 'Facelets'],
-            golang: ['gorilla/mux']
+            golang: ['gorilla/mux','fiber']
         },
         devOps: [],
         databases: ['oracle'.level('advanced'), 'mysql'.level('median'), 'mongodb'.level('basic')],
-        misc: ['Firebase', 'Auth0']
+        misc: ['Firebase', 'Auth0', 'git']
     },
     arquitectura: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
     proyectoActual: '',
