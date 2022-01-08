@@ -10,9 +10,9 @@
 ```javascript
 const jcpalma = {
     nombre: 'José Carlos Palma',
-    lenguajes: ['Java', 'PL/SQL', 'Typescript'],
+    lenguajes: ['Java', 'PL/SQL', 'Typescript', 'C#'],
     aprendiendo: ['Golang','Swift','Python','Angular','ReactJS','Flutter/Dart']
-    antiguosLenguajes: ['C++', 'PHP', 'Python', 'sh']
+    antiguosLenguajes: ['C++', 'Python', 'sh']
     sobreMi: ['Coordinador Data Warehouse', 'Me encanta codificar/nerdear', 'Desarrollo Web/Aplicaciones', 'Música/Películas'],
     tecnologías: {
         movil: ['Swift'.level('basic'), 'Flutter'.level('basic')],
@@ -23,13 +23,14 @@ const jcpalma = {
             css: ['bootstrap']
         },
         backEnd: {
-            js: ['node', 'express','NestJS'.level('basic')],
-            java: ['WildFly Server', 'Facelets'],
+            ts: ['node', 'express','NestJS'.level('basic')],
+            java: ['spring-boot'],
+            csharp: ['.Net 6']
             golang: ['gorilla/mux','fiber']
         },
         devOps: [],
         databases: ['oracle'.level('advanced'), 'mysql'.level('median'), 'mongodb'.level('basic')],
-        misc: ['Firebase', 'Auth0', 'git']
+        misc: ['Firebase', 'Auth0', 'git', 'spring-shell']
     },
     arquitectura: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
     proyectoActual: '',
