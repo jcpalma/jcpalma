@@ -12,7 +12,7 @@ const jcpalma = {
     nombre: 'José Carlos Palma',
     lenguajes: ['Java', 'PL/SQL', 'Typescript', 'C#'],
     aprendiendo: ['Golang','Swift','Python','Angular','ReactJS','Flutter/Dart']
-    antiguosLenguajes: ['C++', 'Python', 'sh']
+    antiguosLenguajes: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh']
     sobreMi: ['Coordinador Data Warehouse', 'Me encanta codificar/nerdear', 'Desarrollo Web/Aplicaciones', 'Música/Películas'],
     tecnologías: {
         movil: ['Swift'.level('basic'), 'Flutter'.level('basic')],
