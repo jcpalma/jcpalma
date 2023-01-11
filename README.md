@@ -2,9 +2,9 @@
     ¡Hola! Soy José Carlos Palma
 </h2>
 <p>
-<img src="https://img.shields.io/badge/version-v39.6%20stable-orange">
+<img src="https://img.shields.io/badge/version-v40.6%20stable-orange">
 <img src="https://img.shields.io/badge/build%20life-passing-green">
-<img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%203%20failed%2C%201%20skipped-informational">
+<img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%204%20failed%2C%201%20skipped-informational">
 </p>
 
 ```javascript
