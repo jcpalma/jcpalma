@@ -2,38 +2,37 @@
     ¡Hola! Soy José Carlos Palma
 </h2>
 <p>
-<img src="https://img.shields.io/badge/version-v40.6%20stable-orange">
+<img src="https://img.shields.io/badge/version-v43.6%20stable-orange">
 <img src="https://img.shields.io/badge/build%20life-passing-green">
 <img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%204%20failed%2C%201%20skipped-informational">
 </p>
 
 ```javascript
 const jcpalma = {
-    nombre: 'José Carlos Palma',
-    lenguajes: ['Java', 'PL/SQL', 'Typescript', 'C#'],
-    aprendiendo: ['Golang','Swift','Python','Angular','ReactJS','Flutter/Dart']
-    antiguosLenguajes: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh']
-    sobreMi: ['Coordinador Data Warehouse', 'Me encanta codificar/nerdear', 'Desarrollo Web/Aplicaciones', 'Música/Películas'],
-    tecnologías: {
-        movil: ['Swift'.level('basic'), 'Flutter'.level('basic')],
-        frontEnd: {
-            framework: ['Angular'.level('median')],
-            librerias: ['ReactJS'.level('basic'), 'VueJS'.level('basic')]
-            util: ['NgRx','RxJs']
-            css: ['bootstrap']
+    name: 'José Carlos Palma',
+    langa: ['Java', 'PL/SQL', 'Js/Ts', 'C#'],
+    learning: ['Golang', 'Python', 'Angular', 'ReactJS', 'VueJS', 'Astro']
+    old-langs: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh']
+    about: ['Jefe de Datos', 'Me encanta codificar', 'Desarrollo Web y Aplicaciones', 'Música/Películas'],
+    techs: {
+        mobile: ['Swift'.level('basic'), 'Flutter'.level('basic')],
+        front-end: {
+            framework: ['Angular'.level('median'), 'NextJS'.level('median'), 'Astro'.level('basic')],
+            librerias: ['ReactJS'.level('basic'), 'VueJS'.level('basic')],
+            css: ['TailwindCSS', 'Bootstrap']
         },
-        backEnd: {
+        back-end: {
             ts: ['node', 'express','NestJS'.level('basic')],
             java: ['spring-boot'],
-            csharp: ['.Net 6']
+            csharp: ['.Net 8'],
             golang: ['gorilla/mux','fiber']
         },
-        devOps: [],
-        databases: ['oracle'.level('advanced'), 'mysql'.level('median'), 'mongodb'.level('basic')],
-        misc: ['Firebase', 'Auth0', 'git', 'spring-shell']
+        dev-ops: [],
+        databases: ['oracle'.level('advanced'), 'postgresql'.level('basic'), 'mysql'.level('median'), 'mongodb'.level('basic')],
+        misc: ['git', 'spring-shell', 'shell', 'data-analytcis']
     },
-    arquitectura: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
-    proyectoActual: '',
+    architecture: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
+    projects: [],
 };
 ```
 
