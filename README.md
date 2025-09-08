@@ -10,28 +10,28 @@
 ```javascript
 const jcpalma = {
     name: 'José Carlos Palma',
-    langa: ['Java', 'PL/SQL', 'Js/Ts', 'C#'],
+    langs: ['Java', 'PL/SQL', 'Js/Ts', 'C#'],
     learning: ['Golang', 'Python', 'Angular', 'ReactJS', 'VueJS', 'Astro'],
-    old-langs: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh'],
+    old_langs: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh'],
     about: ['Jefe de Datos', 'Me encanta codificar', 'Desarrollo Web y Aplicaciones', 'Música/Películas'],
     techs: {
         mobile: ['Swift'.level('basic'), 'Flutter'.level('basic')],
-        front-end: {
-            framework: ['Angular'.level('median'), 'NextJS'.level('median'), 'Astro'.level('basic')],
-            librerias: ['ReactJS'.level('basic'), 'VueJS'.level('basic')],
+        front_end: {
+            frameworks: ['Angular'.level('median'), 'NextJS'.level('median'), 'Astro'.level('basic')],
+            libs: ['ReactJS'.level('basic'), 'VueJS'.level('basic')],
             css: ['TailwindCSS', 'Bootstrap'],
         },
-        back-end: {
-            ts: ['node', 'express','NestJS'.level('basic')],
+        back_end: {
+            js_ts: ['node', 'express','NestJS'.level('basic')],
             java: ['spring-boot'],
             csharp: ['.Net 8'],
             golang: ['gorilla/mux','fiber'],
         },
-        dev-ops: [],
+        dev_ops: [],
         databases: ['oracle'.level('advanced'), 'postgresql'.level('basic'), 'mysql'.level('median'), 'mongodb'.level('basic')],
         misc: ['git', 'spring-shell', 'shell', 'data-analytcis']
     },
-    architecture: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
+    architectures: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
     projects: [],
 };
 ```
