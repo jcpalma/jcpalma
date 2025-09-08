@@ -2,7 +2,7 @@
     ¡Hola! Soy José Carlos Palma
 </h2>
 <p>
-<img src="https://img.shields.io/badge/version-v43.6%20stable-orange">
+<img src="https://img.shields.io/badge/version-v43.1%20stable-orange">
 <img src="https://img.shields.io/badge/build%20life-passing-green">
 <img src="https://img.shields.io/badge/tests%20life-6%20passed%2C%204%20failed%2C%201%20skipped-informational">
 </p>
@@ -10,9 +10,10 @@
 ```javascript
 const jcpalma = {
     name: 'José Carlos Palma',
+    version: '^43.1.0',
     langs: ['Java', 'PL/SQL', 'Js/Ts', 'C#'],
     learning: ['Golang', 'Python', 'Angular', 'ReactJS', 'VueJS', 'Astro'],
-    old_langs: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh'],
+    xlangs: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh'],
     about: ['Jefe de Datos', 'Me encanta codificar', 'Desarrollo Web y Aplicaciones', 'Música/Películas'],
     techs: {
         mobile: ['Swift'.level('basic'), 'Flutter'.level('basic')],
