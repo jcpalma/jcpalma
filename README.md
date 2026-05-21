@@ -11,11 +11,12 @@
 const jcpalma = {
     name: 'José Carlos Palma',
     version: '^43.1.0',
-    langs: ['Java', 'PL/SQL', 'Js/Ts', 'C#'],
-    learning: ['Golang', 'Python', 'Angular', 'ReactJS', 'VueJS', 'Astro'],
+    langs: ['Java', 'PL/SQL', 'Js/Ts', 'C#', 'Python'],
+    learning: ['Golang', 'Angular', 'ReactJS', 'VueJS', 'Astro'],
     xlangs: ['C++', 'Visual Basic', 'Ada95', 'Python', 'sh'],
     about: ['Jefe de Datos', 'Me encanta codificar', 'Desarrollo Web y Aplicaciones', 'Música/Películas'],
     techs: {
+        os: ['macosx'.personal(),'arch-linux/gnome','omarchy'.main('Me encanta👌')],
         mobile: ['Swift'.level('basic'), 'Flutter'.level('basic')],
         front_end: {
             frameworks: ['Angular'.level('median'), 'NextJS'.level('median'), 'Astro'.level('basic')],
@@ -25,29 +26,14 @@ const jcpalma = {
         back_end: {
             js_ts: ['node', 'express','NestJS'.level('basic')],
             java: ['spring-boot'],
-            csharp: ['.Net 8'],
+            csharp: ['.Net 10'],
             golang: ['gorilla/mux','fiber'],
         },
         dev_ops: [],
         databases: ['oracle'.level('advanced'), 'postgresql'.level('basic'), 'mysql'.level('median'), 'mongodb'.level('basic')],
-        misc: ['git', 'spring-shell', 'shell', 'data-analytcis']
+        misc: ['git', 'spring-shell', 'shell', 'data-analytcis', 'trino', 'iceberg']
     },
     architectures: ['Single Page Applications', 'Command Line Application', 'Desktop Application'],
     projects: [],
 };
 ```
-
-<!--
-**jcpalma/jcpalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
